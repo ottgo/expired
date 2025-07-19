@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-icons-png.flaticon.com/512/5683/5683325.png" group-title="INFO", INFO
+https://tunebox.space/expired
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-icons-png.flaticon.com/512/5683/5683325.png" group-title="MOVIES", INFO
+https://tunebox.space/expiredvod.mp4
+
+
+#EXTINF:-1 parent-code="0000" tvg-id="xxx.us" tvg-logo="https://cdn-icons-png.flaticon.com/512/5683/5683325.png" group-title="XXX", INFO
+https://tunebox.space/expiredvod.mp4
