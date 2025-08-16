@@ -1,9 +1,9 @@
 #EXTM3U vod_library="https://tunebox.space/expiredvod" billed-msg="U N T U K  P E R T A N Y A A N  A T A U  L A N G G A N A N  H U B U N G I  -  W H A T S A P P / T E L E G R A M  -  0 1 1  3 1 0 9  2 6 0 5  ( A D M I N )"
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.pixabay.com/photo/2019/06/25/12/59/click-here-4298145_1280.png" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/malaysialogo.png" group-title="INFO",INFO
-https://tunebox.space/expired
+https://tunebox.shop/promo2
 
 
 
 #EXTINF:-1 parent-code="0000" tvg-id="xxx.us" tvg-logo="https://cdn.pixabay.com/photo/2019/06/25/12/59/click-here-4298145_1280.png" group-title="XXX", INFO
-https://tunebox.space/expiredvod.mp4
+https://tunebox.shop/promo2
